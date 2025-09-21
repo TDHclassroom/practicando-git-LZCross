@@ -4,7 +4,5 @@ Lista de características:
 3. Reportes básicos
 
 ## Información del proyecto
-Versión desarrollada en rama feature
+Versión combinada de ambas ramas
 
-## Información del proyecto
-Versión desarrollada en rama main
