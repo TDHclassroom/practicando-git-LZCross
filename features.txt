@@ -6,3 +6,15 @@ Lista de características:
 ## Información del proyecto
 Versión combinada de ambas ramas
 
+# Mi Proyecto Git
+## La ultima actualización
+Editado desde GitHub web interface
+Este es mi primer proyecto usando Git.
+
+## Información del proyecto
+Aquí se combinó la información después de resolver conflictos.
+
+## Características
+- Aprendiendo Git paso a paso
+
+
